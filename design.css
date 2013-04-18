@@ -80,7 +80,7 @@ body div#loading_screen {
 
 a {
 	color: #AEEE00;
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 a:hover {
