@@ -7,4 +7,4 @@ The theme is currently forked from the built-in Sapientia theme (as it was the c
 
 # Current State Screenshot
 
-![wipscreen](http://cl.ly/ONEH/Screen%20Shot%202013-04-17%20at%209.59.37%20PM.png)
+![wipscreen](http://f.cl.ly/items/3v080S1j0D0v2K3c3a1c/Screen%20Shot%202013-04-17%20at%2011.24.20%20PM.png)
