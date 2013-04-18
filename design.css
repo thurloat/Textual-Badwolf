@@ -287,22 +287,22 @@ body .inline_nickname {
 }
 
 body div[type*=privmsg] .sender[type*=myself] { 
-	color: #A9A9A9; 
+	color: #d9cec3; // brightgravel 
 }
 
 body .sender[type*=normal][colornumber='0'], 
 body .inline_nickname[colornumber='0'] { 
-	color: #D93826; 
+	color: #0a9dff; // tardis 
 }
 
 body .sender[type*=normal][colornumber='1'], 
 body .inline_nickname[colornumber='1'] { 
-	color: #636aff; 
+	color: #ffa724; 
 }
 
 body .sender[type*=normal][colornumber='2'], 
 body .inline_nickname[colornumber='2'] { 
-	color: #00BA00; 
+	color: #ff9eb8; 
 }
 
 body .sender[type*=normal][colornumber='3'], 
@@ -312,22 +312,22 @@ body .inline_nickname[colornumber='3'] {
 
 body .sender[type*=normal][colornumber='4'], 
 body .inline_nickname[colornumber='4'] { 
-	color: #4DEDF0; 
+	color: hsl(45, 90%, 52%); 
 }
 
 body .sender[type*=normal][colornumber='5'], 
 body .inline_nickname[colornumber='5'] { 
-	color: #E422B2; 
+	color: hsl(60, 90%, 52%); 
 }
 
 body .sender[type*=normal][colornumber='6'],
 body .inline_nickname[colornumber='6'] { 
-	color: #EAE87E; 
+	color: hsl(75, 90%, 52%); 
 }
 
 body .sender[type*=normal][colornumber='7'], 
 body .inline_nickname[colornumber='7'] { 
-	color: #B8DFFF; 
+	color: hsl(90, 90%, 52%); 
 }
 
 body .sender[type*=normal][colornumber='8'],
