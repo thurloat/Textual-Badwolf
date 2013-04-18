@@ -292,7 +292,7 @@ body div[type*=privmsg] .sender[type*=myself] {
 
 body .sender[type*=normal][colornumber='0'], 
 body .inline_nickname[colornumber='0'] { 
-	color: #0a9dff; // tardis 
+    color: hsl(204, 80%, 52%)
 }
 
 body .sender[type*=normal][colornumber='1'], 
@@ -312,137 +312,137 @@ body .inline_nickname[colornumber='3'] {
 
 body .sender[type*=normal][colornumber='4'], 
 body .inline_nickname[colornumber='4'] { 
-	color: hsl(45, 90%, 52%); 
+	color: hsl(165, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='5'], 
 body .inline_nickname[colornumber='5'] { 
-	color: hsl(60, 90%, 52%); 
+	color: hsl(360, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='6'],
 body .inline_nickname[colornumber='6'] { 
-	color: hsl(75, 90%, 52%); 
+	color: hsl(225, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='7'], 
 body .inline_nickname[colornumber='7'] { 
-	color: hsl(90, 90%, 52%); 
+	color: hsl(10, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='8'],
 body .inline_nickname[colornumber='8'] { 
-	color: #75A1FB; 
+	color: hsl(300, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='9'], 
 body .inline_nickname[colornumber='9'] { 
-	color: #97C74B; 
+	color: hsl(180, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='10'], 
 body .inline_nickname[colornumber='10'] { 
-	color: #A5EAC4; 
+	color: hsl(135, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='11'], 
 body .inline_nickname[colornumber='11'] { 
-	color: #FFA6A0; 
+	color: hsl(285, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='12'], 
 body .inline_nickname[colornumber='12'] { 
-	color: #8E67E7; 
+	color: hsl(45, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='13'], 
 body .inline_nickname[colornumber='13'] { 
-	color: #FFBB58; 
+	color: hsl(305, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='14'], 
 body .inline_nickname[colornumber='14'] { 
-	color: #EDD7AD; 
+	color: hsl(25, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='15'], 
 body .inline_nickname[colornumber='15'] { 
-	color: #FF1676;
+	color: hsl(210, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='16'], 
 body .inline_nickname[colornumber='16'] { 
-	color: #706616;
+	color: hsl(345, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='17'], 
 body .inline_nickname[colornumber='17'] { 
-	color: #46799c;
+	color: hsl(270, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='18'], 
 body .inline_nickname[colornumber='18'] { 
-	color: #80372e;
+	color: hsl(150, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='19'], 
 body .inline_nickname[colornumber='19'] { 
-	color: #8F478E;
+	color: hsl(295, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='20'], 
 body .inline_nickname[colornumber='20'] { 
-	color: #5b9e4c;
+	color: hsl(304, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='21'], 
 body .inline_nickname[colornumber='21'] { 
-	color: #13826c;
+	color: hsl(315, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='22'], 
 body .inline_nickname[colornumber='22'] { 
-	color: #b13637;
+	color: hsl(45, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='23'], 
 body .inline_nickname[colornumber='23'] { 
-	color: #e45d59;
+	color: hsl(335, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='24'], 
 body .inline_nickname[colornumber='24'] { 
-	color: #1b51ae;
+	color: hsl(195, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='25'], 
 body .inline_nickname[colornumber='25'] { 
-	color: #4855ac;
+	color: hsl(355, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='26'], 
 body .inline_nickname[colornumber='26'] { 
-	color: #7f1d86;
+	color: hsl(5, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='27'], 
 body .inline_nickname[colornumber='27'] { 
-	color: #73643f;
+	color: hsl(15, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='28'], 
 body .inline_nickname[colornumber='28'] { 
-	color: #0b9578;
+	color: hsl(25, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='29'], 
 body .inline_nickname[colornumber='29'] { 
-	color: #569c96;
+	color: hsl(35, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='30'], 
 body .inline_nickname[colornumber='30'] { 
-	color: #08465f;
+	color: hsl(325, 80%, 45%); 
 }
 
 /* mIRC Color Codes */
