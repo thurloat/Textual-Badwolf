@@ -322,7 +322,7 @@ body .inline_nickname[colornumber='5'] {
 
 body .sender[type*=normal][colornumber='6'],
 body .inline_nickname[colornumber='6'] { 
-	color: hsl(225, 80%, 45%); 
+	color: hsl(213, 80%, 45%); 
 }
 
 body .sender[type*=normal][colornumber='7'], 
